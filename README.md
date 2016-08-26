@@ -26,6 +26,10 @@ Bundlerをインストールしておいてください。（rbenvを推奨）
     ruby trello-newweek.rb 2016-08-30  # 今日から2016/8/30までのリストを作成
     ruby trello-newweek.rb 2016-08-26 2016-08-26 # 2016/8/26から2016/8/30までのリストを作成
 
+## License
+
+MIT License
+
 ## Author
 
-Twitter [@sky_y](https://twitter.com/sky_y)
+sky-y (Twitter [@sky_y](https://twitter.com/sky_y))
