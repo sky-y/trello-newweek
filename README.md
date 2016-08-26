@@ -10,8 +10,15 @@ Trelloで週次レビューしたい人用。
 
 Bundlerをインストールしておいてください。（rbenvを推奨）
 
+    git clone https://github.com/sky-y/trello-newweek.git
+    cd trello-newweek
     bundle install
 
+スクリプト`trello-newweek.rb` の下記を、自分のものに書き換えてください：
+
+* PUT_YOUR_DEVELOPER_PUBLIC_KEY
+* PUT_YOUR_TOKEN
+* PUT_YOUR_BOARD_ID
 
 ## Usage
 
